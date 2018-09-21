@@ -1,0 +1,1 @@
+Example of including a static file to the build (see build.properties).
