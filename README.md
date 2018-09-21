@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/patrickneubauer/eclipse-tycho-example.svg?branch=master)](https://travis-ci.org/patrickneubauer/eclipse-tycho-example)
 # eclipse-tycho-example
-Eclipse Tycho example for creating Eclipse plugins, OSGi bundles, and Eclipse RCP applications
+
+Showcases the application of Eclipse Tycho for creating Eclipse plugins, OSGi bundles, and Eclipse RCP applications.
+
 
 HOW TO USE:
 -----------
@@ -14,14 +16,18 @@ HOW TO USE:
 4. Execute Eclipse run-configuration named "com.patrickneubauer.examples.tycho RUN.launch" to run Tycho RCP application.
 
 
-TESTED ON:
-----------
+
+TESTED WITH:
+------------
 
 Eclipse Modeling Tools, Version: Oxygen Release (4.7.0), Build id: 20170620-1800
 
-OS: macOS High Sierra (10.13.6)
+Eclipse Tycho: 0.26.0 and 1.2.0
 
 Maven: 3.3.9 (Eclipse Oxygen embedded) and 3.5.0 (homebrew)
+
+OS: macOS High Sierra (10.13.6)
+
 
 
 BASED ON WORK BY LARS VOGEL:
