@@ -17,11 +17,7 @@ HOW TO USE:
 TESTED ON:
 ----------
 
-Eclipse Modeling Tools
-
-Version: Oxygen Release (4.7.0)
-
-Build id: 20170620-1800
+Eclipse Modeling Tools, Version: Oxygen Release (4.7.0), Build id: 20170620-1800
 
 OS: macOS High Sierra (10.13.6)
 
