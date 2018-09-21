@@ -18,9 +18,13 @@ TESTED ON:
 ----------
 
 Eclipse Modeling Tools
+
 Version: Oxygen Release (4.7.0)
+
 Build id: 20170620-1800
+
 OS: macOS High Sierra (10.13.6)
+
 Maven: 3.3.9 (Eclipse Oxygen embedded) and 3.5.0 (homebrew)
 
 
