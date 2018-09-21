@@ -19,4 +19,5 @@ cache:
   - $HOME/.m2/repository
 install: /bin/true
 script:
+- cd com.patrickneubauer.examples.tycho
 - mvn clean verify
